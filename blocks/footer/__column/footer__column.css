@@ -1,0 +1,9 @@
+.footer__colunm {
+  margin-top: 8px;
+  height: 130px;
+}
+
+.footer__colunm:first-child {
+  margin-top: 0px;
+  height: 138px;
+}

@@ -1,0 +1,11 @@
+.how-it__img {
+  display: block;
+  transition: all 0.5s linear;
+}
+
+.how-it__img:hover {
+  animation: pulse 0.5s linear infinite;
+
+}
+
+

@@ -1,0 +1,4 @@
+.header {
+  min-height: 800px;
+  background: url(../../images/header/table.svg) 576px 165px no-repeat, url(../../images/header/backgtound.svg) top right no-repeat;
+}

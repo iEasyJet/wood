@@ -1,0 +1,7 @@
+.menu__links {
+  width: 430px;
+  padding-left: 105px;
+
+  display: flex;
+  justify-content: space-between;
+}

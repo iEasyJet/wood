@@ -1,0 +1,8 @@
+.section-header__title {
+  margin: 0;
+
+  font-family: Nunito-exbold;
+  color: #222222;
+  font-size: 72px;
+  opacity: 0.1;
+}

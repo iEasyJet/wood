@@ -1,0 +1,13 @@
+.how-it__btn {
+  margin: 0 auto;
+  width: 212px;
+  height: 50px;
+  background: #DAA520;
+  border-radius: 5px;
+  transition: all 0.2s linear;
+}
+
+.how-it__btn:hover {
+  transform: scale(1.05);
+  background: #3E3F43;
+}

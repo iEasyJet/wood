@@ -1,0 +1,8 @@
+.lead__title {
+  margin: 0;
+  padding: 10px 0 30px 0;
+  font-family: Nunito-bold;
+  font-size: 72px;
+  line-height: 1.15;
+  color: #313235;
+}
