@@ -1,3 +1,14 @@
 .categories__card_back_blue {
-  background: url(../../../../images/categories/Rectangle\ 6.svg);
+  width: 280px;
+  height: 400px;
+  background: #A8DCEC;
+  border-top-right-radius: 35%;
+  border-bottom-left-radius: 35%;
+  transition: all 0.8s linear;
 }
+
+.categories__card_back_blue:hover {
+  background: #A8DCEC;
+  border-radius: 15px;
+}
+

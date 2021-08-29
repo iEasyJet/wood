@@ -1,13 +1,16 @@
 .menu__link {
+  display: block;
+  padding: 5px;
   font-family: Nunito-reg;
   text-decoration: none;
   font-size: 16px;
   color: #222222;
   opacity: 75%;
-  transition: all 0.2s linear;
+  transition: all 0.5s linear;
 }
 
 .menu__link:hover {
-  color: red;
-  transform: scale(1.05);
+  border-radius: 5px;
+  background-color: #222222;
+  color: white;
 }

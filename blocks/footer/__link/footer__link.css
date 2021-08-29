@@ -4,11 +4,15 @@
   font-family: Nunito-reg;
   font-size: 14px;
   color: #8D8D8D;
-  transition: all 0.2s linear;
+  transition: all 0.5s linear;
 }
 
 .footer__link:hover {
-  display: inline-block;
-  color: red;
-  transform: scale(1.05);
+  box-sizing: border-box;
+  padding: 5px;
+  border-radius: 5px;
+  background-color: #222222;
+  color: white;
 }
+
+

@@ -1,5 +1,13 @@
 .categories__card {
   width: 280px;
   height: 400px;
-  background: url(../../../images/categories/Rectangle\ 7.svg);
+  background: #F9BDBD;
+  border-top-right-radius: 35%;
+  border-bottom-left-radius: 35%;
+  transition: all 0.8s linear;
+}
+
+.categories__card:hover {
+  background: #F9BDBD;
+  border-radius: 15px;
 }

@@ -18,6 +18,10 @@
   src: url(../../fonts/Nunito/Nunito-SemiBold.ttf);
 }
 
+* {
+  scroll-behavior: smooth;
+}
+
 .page {
   width: 1152px;
   margin: 0 auto;
